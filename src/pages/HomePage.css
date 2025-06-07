@@ -1,0 +1,16 @@
+.home-container {
+  text-align: center;
+  padding-top: 120px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.home-container h1 {
+  font-size: 3rem;
+  color: #1976d2;
+  margin-bottom: 1rem;
+}
+
+.home-container p {
+  font-size: 1.3rem;
+  color: #555;
+}
