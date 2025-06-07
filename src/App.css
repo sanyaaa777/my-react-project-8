@@ -47,6 +47,7 @@ li {
   margin-bottom: 0.5rem;
 }
 
-input[type="text"], input[type="tel"] {
+input[type='text'],
+input[type='tel'] {
   width: 150px;
 }

@@ -1,5 +1,5 @@
 {
-  "name": "my-react-project-7",
+  "name": "my-react-project-8",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -17,8 +17,11 @@
     "modern-normalize": "^3.0.1",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
+    "react-hot-toast": "^2.5.2",
     "react-icons": "^5.5.0",
     "react-redux": "^9.2.0",
+    "react-router-dom": "^7.6.2",
+    "redux": "^5.0.1",
     "redux-persist": "^6.0.0",
     "yup": "^1.6.1"
   },
