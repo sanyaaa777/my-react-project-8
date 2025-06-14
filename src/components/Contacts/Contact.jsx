@@ -6,7 +6,7 @@ export default function Contact({ contact }) {
 
   return (
     <li>
-      {contact.name}: {contact.phone}
+      {contact.name}: {contact.number}
       <button onClick={() => dispatch(deleteContact(contact.id))}>
         Видалити
       </button>
